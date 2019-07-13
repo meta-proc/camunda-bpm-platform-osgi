@@ -16,7 +16,7 @@
 
   <modules>
     <module>camunda-bpm-osgi</module>
-	<module>camunda-bpm-karaf-feature</module>
+    <module>camunda-bpm-karaf-feature</module>
     <module>camunda-bpm-blueprint-wrapper</module>
     <module>camunda-bpm-karaf-commands</module>
     <module>camunda-bpm-karaf-assembly</module>
